@@ -1,1 +1,1 @@
-# Semestre_24-2
+# LAB 01 - Tópicos em Inteligência Artificial
